@@ -1,5 +1,7 @@
 # MergeSortProject
 
+Bu repo [Patika](https://app.patika.dev/paths) eğitimi kapsamında açtığım repo.
+
 ## [16,21,11,8,12,22] -> Merge Sort
 
 Yukarıdaki dizinin sort türüne göre aşamalarını yazınız.
